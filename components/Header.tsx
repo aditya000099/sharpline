@@ -25,8 +25,8 @@ const Header = () => {
       transition={{ duration: 0.5 }}
     >
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
-        <Link href="/" className="text-2xl font-bold text-indigo-600">
-          Sharpline Offset Printers
+        <Link href="/" className="sm:text-2xl text-xl font-bold text-indigo-600">
+          Sharpline
         </Link>
         <nav>
           <ul className="flex space-x-6">
